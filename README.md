@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeMarck but my name is Marco Antonio Domoínguez González
 - 👀 I’m interested in working as a python developer
 - 🌱I’m currently learning
-- 💞️ I'm looking for a job
+- 💞️ I'm developing my projects.
 - 📫 How to reach me marck.dominguez23@gmail.com 
 
 <!---
